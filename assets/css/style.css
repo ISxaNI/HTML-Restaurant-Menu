@@ -51,6 +51,9 @@ nav a {
 
 nav a:hover {
     color: darkred;
+    background-color: lightgreen ;
+    opacity: 0.4;aaa
+    margin: 5px;
 }
 
 #banner {
@@ -89,4 +92,8 @@ th {
 #banner {
     width: 100%;
     height: auto;
+}
+nav .active {
+   color:brown;
+   background-color: purple;
 }
